@@ -1,8 +1,5 @@
 # GroupCE
 
-Code to implement the optimization models described in the Numerical Illustration section in prepint *One-for-many Counterfactual Explanations by Column Generation* by Andrea Lodi and Jasone Ramírez-Ayerbe. 
-The prepint can be found here: https://arxiv.org/abs/2402.09473
-
 ### Requirements
 
 To run the model, the gurobi solver is required. Free academics licenses are available. 
